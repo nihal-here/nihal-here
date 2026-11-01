@@ -1,4 +1,4 @@
-# Nihal Anwar
+# Nihal 
 
 Software engineer. Portfolio and CV: [nihalhere.dev](https://nihalhere.dev)
 
